@@ -1,0 +1,23 @@
+{
+  "name": "social_network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Social_Network"
+  },
+  "keywords": [
+    "pog"
+  ],
+  "author": "Jonathang95",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4"
+  }
+}
